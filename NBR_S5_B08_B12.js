@@ -18,5 +18,5 @@ return colorBlend(-index, [min, zero, max],
 low_color,
 zero_color, // divergencia en zero
 high_color,
-overflow_color // descomentar para ver los overflows
+overflow_color
 ]);
